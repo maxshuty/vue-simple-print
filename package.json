@@ -28,6 +28,7 @@
     "print element",
     "print hidden element",
     "simply-print-vue",
+    "simple-print-vue",
   ],
   "devDependencies": {
     "@babel/core": "^7.11.6",
