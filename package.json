@@ -1,6 +1,5 @@
 {
-  "name": "vue-simple-print",
-  "version": "1.0.0",
+  "name": "simply-print-vue",
   "description": "Easily print any HTML content you you want in Vue. Tt can be hidden content, certain elements, etc.",
   "author": "Max Poshusta",
   "license": "MIT",
