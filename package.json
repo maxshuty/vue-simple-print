@@ -32,6 +32,7 @@
     "simple",
     "simple print",
     "simple print vue",
+    "simple-print",
   ],
   "devDependencies": {
     "@babel/core": "^7.11.6",
