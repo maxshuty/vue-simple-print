@@ -5,6 +5,7 @@ function addExistingStyles(iframeContentWindow) {
   ).map((link) => link.href);
   addStyles(iframeContentWindow, styleSheets);
 
+  // Adding the <style> elements to the iframe
 }
 
 
