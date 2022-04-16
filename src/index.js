@@ -3,6 +3,7 @@ function addExistingStyles(iframeContentWindow) {
   const styleSheets = Array.from(
     document.querySelectorAll('link[rel="stylesheet"]')
   ).map((link) => link.href);
+  addStyles(iframeContentWindow, styleSheets);
 }
 
 
