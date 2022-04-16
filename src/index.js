@@ -6,6 +6,7 @@ function addExistingStyles(iframeContentWindow) {
   addStyles(iframeContentWindow, styleSheets);
 
   // Adding the <style> elements to the iframe
+  const styleEls = document.querySelectorAll('style');
 }
 
 
