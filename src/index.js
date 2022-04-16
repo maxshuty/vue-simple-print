@@ -4,6 +4,7 @@ function addExistingStyles(iframeContentWindow) {
     document.querySelectorAll('link[rel="stylesheet"]')
   ).map((link) => link.href);
   addStyles(iframeContentWindow, styleSheets);
+
 }
 
 
