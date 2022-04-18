@@ -15,5 +15,6 @@ function addExistingStyles(iframeContentWindow) {
   });
 }
 
+function addStyles(iframeContentWindow, styles) {
 
 }
