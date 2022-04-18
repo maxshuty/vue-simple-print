@@ -9,6 +9,7 @@ function addExistingStyles(iframeContentWindow) {
   const styleEls = document.querySelectorAll('style');
   styleEls.forEach((styleEl) => {
     // If you don't clone the node then it will remove it from the
+    // original document and copy it to the iFrame which we do not want.
 }
 
 
