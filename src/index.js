@@ -12,6 +12,7 @@ function addExistingStyles(iframeContentWindow) {
     // original document and copy it to the iFrame which we do not want.
     // We only want a copy of it for the iFrame
     iframeContentWindow.document.head.append(styleEl.cloneNode(true));
+  });
 }
 
 
