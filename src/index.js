@@ -16,6 +16,7 @@ function addExistingStyles(iframeContentWindow) {
 }
 
 function addStyles(iframeContentWindow, styles) {
+  styles.forEach((style) => {
 }
 
 }
