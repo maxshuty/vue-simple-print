@@ -8,6 +8,7 @@ function addExistingStyles(iframeContentWindow) {
   // Adding the <style> elements to the iframe
   const styleEls = document.querySelectorAll('style');
   styleEls.forEach((styleEl) => {
+    // If you don't clone the node then it will remove it from the
 }
 
 
