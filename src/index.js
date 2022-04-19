@@ -21,6 +21,7 @@ function addStyles(iframeContentWindow, styles) {
     link.setAttribute('rel', 'stylesheet');
     link.setAttribute('type', 'text/css');
     link.setAttribute('href', style);
+    iframeContentWindow.document
 }
 
 }
