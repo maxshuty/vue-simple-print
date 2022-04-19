@@ -17,6 +17,7 @@ function addExistingStyles(iframeContentWindow) {
 
 function addStyles(iframeContentWindow, styles) {
   styles.forEach((style) => {
+    let link = iframeContentWindow.document.createElement('link');
 }
 
 }
