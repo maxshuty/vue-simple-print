@@ -23,6 +23,7 @@ function addStyles(iframeContentWindow, styles) {
     link.setAttribute('href', style);
     iframeContentWindow.document
       .getElementsByTagName('head')[0]
+      .appendChild(link);
 }
 
 }
