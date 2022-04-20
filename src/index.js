@@ -28,4 +28,5 @@ function addStyles(iframeContentWindow, styles) {
 }
 
 const SimplePrint = {
+  install(Vue, options = {}) {
 }
