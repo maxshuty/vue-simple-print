@@ -22,6 +22,7 @@ function addStyles(iframeContentWindow, styles) {
     link.setAttribute('type', 'text/css');
     link.setAttribute('href', style);
     iframeContentWindow.document
+      .getElementsByTagName('head')[0]
 }
 
 }
