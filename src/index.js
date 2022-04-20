@@ -24,6 +24,7 @@ function addStyles(iframeContentWindow, styles) {
     iframeContentWindow.document
       .getElementsByTagName('head')[0]
       .appendChild(link);
+  });
 }
 
 }
