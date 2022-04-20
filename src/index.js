@@ -27,4 +27,5 @@ function addStyles(iframeContentWindow, styles) {
   });
 }
 
+const SimplePrint = {
 }
