@@ -36,4 +36,5 @@ const SimplePrint = {
         replace = true,
         useExistingStylesheets = false,
         styles = ['../'],
+      } = options;
 }
