@@ -33,4 +33,5 @@ const SimplePrint = {
       let {
         name = '_blank',
         specs = ['fullscreen=yes', 'titlebar=yes', 'scrollbars=yes'],
+        replace = true,
 }
