@@ -32,4 +32,5 @@ const SimplePrint = {
     Vue.prototype.$simplePrint = (selector, localOptions, cb = () => true) => {
       let {
         name = '_blank',
+        specs = ['fullscreen=yes', 'titlebar=yes', 'scrollbars=yes'],
 }
