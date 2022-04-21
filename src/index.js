@@ -31,4 +31,5 @@ const SimplePrint = {
   install(Vue, options = {}) {
     Vue.prototype.$simplePrint = (selector, localOptions, cb = () => true) => {
       let {
+        name = '_blank',
 }
