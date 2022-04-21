@@ -35,4 +35,5 @@ const SimplePrint = {
         specs = ['fullscreen=yes', 'titlebar=yes', 'scrollbars=yes'],
         replace = true,
         useExistingStylesheets = false,
+        styles = ['../'],
 }
