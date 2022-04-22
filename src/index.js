@@ -38,4 +38,5 @@ const SimplePrint = {
         styles = ['../'],
       } = options;
 
+      // Overriding default options if local options have been provided
 }
