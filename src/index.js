@@ -37,4 +37,5 @@ const SimplePrint = {
         useExistingStylesheets = false,
         styles = ['../'],
       } = options;
+
 }
