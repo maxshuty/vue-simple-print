@@ -39,4 +39,5 @@ const SimplePrint = {
       } = options;
 
       // Overriding default options if local options have been provided
+      // local options are passed in when the plugin is called
 }
