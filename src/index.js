@@ -42,4 +42,5 @@ const SimplePrint = {
       // local options are passed in when the plugin is called
       // options are passed in when the plugin is *created*
       if (!!localOptions) {
+        if (localOptions.name) {
 }
