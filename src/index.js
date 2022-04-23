@@ -47,3 +47,4 @@ const SimplePrint = {
         }
 
         if (localOptions.specs) {
+        }
