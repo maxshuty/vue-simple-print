@@ -45,3 +45,5 @@ const SimplePrint = {
         if (localOptions.name) {
           name = localOptions.name;
         }
+
+        if (localOptions.specs) {
