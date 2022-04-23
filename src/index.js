@@ -44,4 +44,4 @@ const SimplePrint = {
       if (!!localOptions) {
         if (localOptions.name) {
           name = localOptions.name;
-}
+        }
