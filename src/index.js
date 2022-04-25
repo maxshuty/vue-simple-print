@@ -51,4 +51,4 @@ const SimplePrint = {
         }
 
         if (localOptions.replace) {
-          replace = lo
+          replace = localOptions.replace;
