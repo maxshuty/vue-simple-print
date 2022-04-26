@@ -54,4 +54,4 @@ const SimplePrint = {
           replace = localOptions.replace;
         }
 
-        if (lo
+        if (localOptions.useExistingStylesheets) {
