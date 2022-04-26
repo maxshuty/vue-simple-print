@@ -53,3 +53,5 @@ const SimplePrint = {
         if (localOptions.replace) {
           replace = localOptions.replace;
         }
+
+        i
