@@ -55,4 +55,4 @@ const SimplePrint = {
         }
 
         if (localOptions.useExistingStylesheets) {
-          useE
+          useEx
