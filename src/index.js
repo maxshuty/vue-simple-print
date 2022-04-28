@@ -57,3 +57,5 @@ const SimplePrint = {
         if (localOptions.useExistingStylesheets) {
           useExistingStylesheets = localOptions.useExistingStylesheets;
         }
+
+        
