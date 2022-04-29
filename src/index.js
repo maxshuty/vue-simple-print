@@ -59,4 +59,4 @@ const SimplePrint = {
         }
 
         if (localOptions.styles) {
-          style
+          style 
