@@ -62,3 +62,5 @@ const SimplePrint = {
           styles = localOptions.styles;
         }
       }
+
+
