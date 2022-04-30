@@ -60,3 +60,4 @@ const SimplePrint = {
 
         if (localOptions.styles) {
           styles = localOptions.styles;
+        }
