@@ -63,4 +63,4 @@ const SimplePrint = {
         }
       }
 
-      specs = !!specs
+      specs = !!specs.length ? specs.join(',') : '';
