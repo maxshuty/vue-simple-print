@@ -63,4 +63,4 @@ const SimplePrint = {
         }
       }
 
-      specs = !!sp
+      specs = !!spe
