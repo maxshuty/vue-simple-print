@@ -65,5 +65,4 @@ const SimplePrint = {
 
       specs = !!specs.length ? specs.join(',') : '';
 
-      c
-      
+      co
