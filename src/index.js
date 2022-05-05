@@ -66,3 +66,4 @@ const SimplePrint = {
       specs = !!specs.length ? specs.join(',') : '';
 
       const elementToPrint = window.document.querySelector(selector);
+      
