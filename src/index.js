@@ -68,5 +68,4 @@ const SimplePrint = {
       const elementToPrint = window.document.querySelector(selector);
       if (!elementToPrint) {
         console.error(
-          `
-          
+          `S
