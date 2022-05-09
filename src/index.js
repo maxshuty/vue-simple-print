@@ -68,4 +68,4 @@ const SimplePrint = {
       const elementToPrint = window.document.querySelector(selector);
       if (!elementToPrint) {
         console.error(
-          `Simple p
+          `SimplePrint: could not find the element to print by selector: ${selector}.
