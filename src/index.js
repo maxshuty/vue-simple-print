@@ -69,4 +69,5 @@ const SimplePrint = {
       if (!elementToPrint) {
         console.error(
           `SimplePrint: could not find the element to print by selector: ${selector}.
+          A
           
