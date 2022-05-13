@@ -72,3 +72,5 @@ const SimplePrint = {
           Are you sure this element exists on the page at the time you called $simplePrint?`        );
         return;
       }
+
+      
