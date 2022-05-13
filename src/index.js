@@ -73,4 +73,4 @@ const SimplePrint = {
         return;
       }
 
-      let
+      let i
