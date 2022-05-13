@@ -73,4 +73,4 @@ const SimplePrint = {
         return;
       }
 
-      let i
+      let iframePrint = document.createElement('iframe');
