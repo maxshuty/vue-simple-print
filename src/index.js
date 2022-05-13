@@ -73,5 +73,4 @@ const SimplePrint = {
         return;
       }
 
-      l
-      
+      le
