@@ -75,5 +75,5 @@ const SimplePrint = {
 
       let iframePrint = document.createElement('iframe');
       document.body.appendChild(iframePrint);
-      iframe
+      iframePrint.setAttribute('style', 'height:0;width:0;');
 
