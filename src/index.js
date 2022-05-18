@@ -80,3 +80,4 @@ const SimplePrint = {
       const iframeContentWindow = iframePrint.contentWindow;
 
       iframeContentWindow.document.write(`
+          
