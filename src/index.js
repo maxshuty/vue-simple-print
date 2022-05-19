@@ -82,5 +82,6 @@ const SimplePrint = {
       iframeContentWindow.document.write(`
         <html>
           <head>
+            <title>${window.document.title}</title>
         
           `);
