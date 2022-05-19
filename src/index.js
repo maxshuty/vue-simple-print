@@ -84,5 +84,6 @@ const SimplePrint = {
           <head>
             <title>${window.document.title}</title>
           </head>
+          <body>
         
           `);
