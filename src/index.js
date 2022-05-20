@@ -86,7 +86,7 @@ const SimplePrint = {
           </head>
           <body>
             ${elementToPrint.innerHTML}
-          </bod
+          </body>
         </html>
         
           `);
