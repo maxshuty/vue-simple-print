@@ -88,5 +88,6 @@ const SimplePrint = {
             ${elementToPrint.innerHTML}
           </body>
         </html>
+      `);
         
           `);
