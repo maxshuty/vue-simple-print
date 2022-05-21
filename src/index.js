@@ -90,5 +90,4 @@ const SimplePrint = {
         </html>
       `);
 
-      if
-      
+      if (useExistingStylesheets) {
