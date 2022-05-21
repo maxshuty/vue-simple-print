@@ -89,5 +89,5 @@ const SimplePrint = {
           </body>
         </html>
       `);
-        
+
           `);
