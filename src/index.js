@@ -91,5 +91,4 @@ const SimplePrint = {
       `);
 
       if (useExistingStylesheets) {
-        addExistingStyles
-        
+        addExistingStyles()
