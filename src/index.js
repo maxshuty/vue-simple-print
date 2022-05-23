@@ -95,3 +95,5 @@ const SimplePrint = {
       }
 
       addStyles(iframeContentWindow, styles);
+
+
