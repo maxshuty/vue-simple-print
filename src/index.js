@@ -96,4 +96,4 @@ const SimplePrint = {
 
       addStyles(iframeContentWindow, styles);
 
-      set
+      setT
