@@ -97,7 +97,7 @@ const SimplePrint = {
       addStyles(iframeContentWindow, styles);
 
       setTimeout(() => {
-        iframeContentWindow
+        iframeContentWindow.document
       }, 200);
 
 
