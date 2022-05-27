@@ -99,6 +99,7 @@ const SimplePrint = {
       setTimeout(() => {
         iframeContentWindow.document.close();
         iframeContentWindow.focus();
+        
       }, 200);
 
 
