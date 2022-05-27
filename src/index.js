@@ -98,6 +98,7 @@ const SimplePrint = {
 
       setTimeout(() => {
         iframeContentWindow.document.close();
+        
       }, 200);
 
 
