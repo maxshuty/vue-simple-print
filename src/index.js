@@ -102,4 +102,5 @@ const SimplePrint = {
         iframeContentWindow.print();
       }, 200);
 
+}
 
