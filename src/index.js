@@ -104,5 +104,5 @@ const SimplePrint = {
         
       }, 200);
 
-}
+};
 
