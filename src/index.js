@@ -100,6 +100,7 @@ const SimplePrint = {
         iframeContentWindow.document.close();
         iframeContentWindow.focus();
         iframeContentWindow.print();
+        
       }, 200);
 
 }
