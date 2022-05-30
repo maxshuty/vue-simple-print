@@ -101,7 +101,7 @@ const SimplePrint = {
         iframeContentWindow.focus();
         iframeContentWindow.print();
         iframeContentWindow.close();
-        cb()
+        cb();
       }, 200);
 
 };
