@@ -104,6 +104,6 @@ const SimplePrint = {
         cb();
       }, 200);
 
-      
+      return
 };
 
