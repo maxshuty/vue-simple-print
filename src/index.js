@@ -106,6 +106,6 @@ const SimplePrint = {
 
       return true;
     };
-  
+  }
 };
 
