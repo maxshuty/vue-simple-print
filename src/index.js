@@ -109,4 +109,4 @@ const SimplePrint = {
   },
 };
 
-export 
+export default
