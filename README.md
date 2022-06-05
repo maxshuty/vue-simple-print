@@ -8,5 +8,5 @@ This package has originated from [vue-html-to-print](https://www.npmjs.com/packa
 
 This solution builds upon the previous two solutions by adding additional options like `useExistingStylesheets`, allowing selection of any valid CSS selector instead of only `id` attributes, like `div[someAttribute="print"]` or any other selector. It also provides minified/uglified files, and other code improvements on the two solutions above.
 
-#
+##
 
