@@ -10,4 +10,4 @@ This solution builds upon the previous two solutions by adding additional option
 
 ## Options
 
-`useExistingStylesheets`: (default `false`). When `true` the plugin will add all of the existing styles and stylesheets from the current page into the printed page.
+`useExistingStylesheets`: (default `false`). When `true` the plugin will add all of the existing styles and stylesheets from the current page into the printed page. This can be useful if you have custom styling that you want to be applied to the printed document. 
