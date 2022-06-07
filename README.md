@@ -12,5 +12,5 @@ This solution builds upon the previous two solutions by adding additional option
 
 `useExistingStylesheets`: (default `false`). When `true` the plugin will add all of the existing styles and stylesheets from the current page into the printed page. This can be useful if you have custom styling that you want to be applied to the printed document. This will also apply `scoped` styles!
 
-[Demo]()
+[Demo](https://codepen.io/Niickles/pen/podeVr)
 
