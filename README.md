@@ -17,3 +17,4 @@ This solution builds upon the previous two solutions by adding additional option
 ## Installation
 
 Run the following command
+`npm install simply-print-vue`
