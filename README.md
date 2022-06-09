@@ -18,3 +18,5 @@ This solution builds upon the previous two solutions by adding additional option
 
 Run the following command
 `npm install simply-print-vue`
+
+Usage inside `main.js`
