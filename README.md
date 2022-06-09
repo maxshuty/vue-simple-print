@@ -20,3 +20,5 @@ Run the following command
 `npm install simply-print-vue`
 
 Usage inside `main.js`
+
+```
