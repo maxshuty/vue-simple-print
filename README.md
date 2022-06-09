@@ -22,3 +22,4 @@ Run the following command
 Usage inside `main.js`
 
 ```
+```
