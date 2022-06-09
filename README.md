@@ -15,3 +15,5 @@ This solution builds upon the previous two solutions by adding additional option
 [Demo](https://codepen.io/Niickles/pen/podeVrL)
 
 ## Installation
+
+Run the following command
