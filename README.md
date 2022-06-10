@@ -27,4 +27,5 @@ import SimplePrint from 'simply-print-vue';
 
 
 Vue.use(SimplePrint);
+// Alternatively you can pass global options in like this: Vue.use(SimplePrint, { yourOptions: here })
 ```
