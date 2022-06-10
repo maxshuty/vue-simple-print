@@ -23,4 +23,5 @@ Usage inside `main.js`
 
 ```
 import Vue from 'vue';
+import SimplePrint from 'simply-print-vue';
 ```
