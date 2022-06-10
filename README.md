@@ -22,4 +22,5 @@ Run the following command
 Usage inside `main.js`
 
 ```
+import Vue from 'vue';
 ```
