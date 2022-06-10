@@ -26,4 +26,5 @@ import Vue from 'vue';
 import SimplePrint from 'simply-print-vue';
 
 
+Vue.use(SimplePrint);
 ```
