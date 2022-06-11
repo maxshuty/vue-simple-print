@@ -30,4 +30,5 @@ Vue.use(SimplePrint);
 // Alternatively you can pass global options in like this: Vue.use(SimplePrint, { yourOptions: here })
 ```
 
+When imported inside of your `main.js` file, the mixin is callable from your component
 
