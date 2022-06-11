@@ -32,3 +32,4 @@ Vue.use(SimplePrint);
 
 When imported inside of your `main.js` file, the mixin is callable from your component
 
+`
