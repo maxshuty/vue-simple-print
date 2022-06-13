@@ -35,6 +35,7 @@ When imported inside of your `main.js` file, the mixin is callable from your com
 ```
 <template>
   <div>
+    <div>
   </div>
 <template>
 ```
