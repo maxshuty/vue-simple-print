@@ -38,6 +38,7 @@ When imported inside of your `main.js` file, the mixin is callable from your com
     <div>
       <h1>Awesomesauce Page</h1>
     </div>
+    <div id="print">
   </div>
 <template>
 ```
