@@ -44,6 +44,7 @@ When imported inside of your `main.js` file, the mixin is callable from your com
       <p>I'd like to print this paragraph</p>
     </div>
 
+    <button @click="print">Print Paragraph</button>
   </div>
 <template>
 ```
