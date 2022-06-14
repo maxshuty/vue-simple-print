@@ -43,6 +43,7 @@ When imported inside of your `main.js` file, the mixin is callable from your com
     <div id="print">
       <p>I'd like to print this paragraph</p>
     </div>
+
   </div>
 <template>
 ```
