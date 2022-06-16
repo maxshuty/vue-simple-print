@@ -53,6 +53,7 @@ When imported inside of your `main.js` file, the mixin is callable from your com
     methods: {
       print() {
         // Pass your selector in, it can be any valid `querySelector` selector
+        async () => await this.$simplePrint('#print');
       }
     }
   }
