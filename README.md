@@ -52,6 +52,7 @@ When imported inside of your `main.js` file, the mixin is callable from your com
   export default {
     methods: {
       print() {
+        // Pass your selector in, it can be any valid `querySelector` selector
       }
     }
   }
