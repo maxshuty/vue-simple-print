@@ -62,3 +62,5 @@ When imported inside of your `main.js` file, the mixin is callable from your com
 
 Optionally you can apply different options from the global options with each call by defining local options like htis:
 
+```
+```
